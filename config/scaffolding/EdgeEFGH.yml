@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeEFGH
+  gitServerName: PratibhaGit
+  gitUrl: https://github.com/Pratibha24/EdgeEFGH
+  gitUsername: Pratibha24
+  gitToken: edge.scaffolding.EdgeEFGH.PratibhaGit.gitToken
+  gitBranch: main
